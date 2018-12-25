@@ -3,7 +3,7 @@ def using_for
 	for levitation_charm in checklist
 	puts "Wingardium Leviosa"
 	end
-	end
+end
 	
 
 
